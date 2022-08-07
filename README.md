@@ -1,2 +1,1 @@
-# testdump-package
-dummy testing python package
+trial package
